@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://leetcode.com/prernashaw741" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/leetcode-2.svg" alt="leetcode" height="30" width="30"/></a>
+  <a href="https://leetcode.com/prernashaw741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leetcode" height="30" width="30"/></a>
   <a href="https://linkedin.com/in/prerna-shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://github.com/Prernashaw741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
   <a href="mailto:shaw.prerna28@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="gmail" height="30" width="40" /></a>
