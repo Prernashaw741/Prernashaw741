@@ -39,11 +39,11 @@
 ---
 
 ## 🚀 Projects
-- 🔹 [OpenScholar RIMS](https://dpu.openscholar.in/) – Research analytics dashboards, citation newsletters, profiles, and automation:contentReference[oaicite:1]{index=1}  
-- 🔹 [Journal Checker](https://journalchecker.com/) – Check journal quartiles (Q1–Q4) with Scimago API:contentReference[oaicite:2]{index=2}  
-- 🔹 [E-Commerce App](https://github.com/Prernashaw741/E--Commerce) – Scalable DRF backend with Redis, Celery:contentReference[oaicite:3]{index=3}  
-- 🔹 [Secure Health App](https://github.com/Prernashaw741/secure-health-2.0) – Secure medical record management with LLM integration:contentReference[oaicite:4]{index=4}  
-- 🔹 [To-Do List](https://github.com/Prernashaw741/To-do-list) – Advanced task management with collaboration features:contentReference[oaicite:5]{index=5}  
+-  [OpenScholar RIMS](https://dpu.openscholar.in/) – Research analytics dashboards, citation newsletters, profiles, and automation:contentReference
+-  [Journal Checker](https://journalchecker.com/) – Check journal quartiles (Q1–Q4) with Scimago API:contentReference
+-  [E-Commerce App](https://github.com/Prernashaw741/E--Commerce) – Scalable DRF backend with Redis, Celery:contentReference 
+-  [Secure Health App](https://github.com/Prernashaw741/secure-health-2.0) – Secure medical record management with LLM integration:contentReference
+-  [To-Do List](https://github.com/Prernashaw741/To-do-list) – Advanced task management with collaboration features:contentReference
 
 ---
 
